@@ -28,6 +28,9 @@ To run the project locally, follow these steps:
    ```bash
    git clone https://github.com/Yasintha8/interior-design-Website-landing-page---html-css-js.git
 
+License
+This project is licensed under the MIT License. You are free to use and modify it as per the terms of the license.
+
 
 Thank You!
 We hope you enjoy exploring this Interior Design Website. Whether you're looking for design inspiration or premium products, this site is built to serve your needs. 🌟
