@@ -1,5 +1,7 @@
 # interior-design-Website-landing-page---html-css-js
 
+<img src="https://github.com/Yasintha8/interior-design-Website-landing-page---html-css-js/blob/main/images/Cover.png">
+
 This is a website for a Tour and Travel company that offers vacation packages, booking services, and travel resources.
 
 ## Installation
